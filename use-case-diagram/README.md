@@ -1,2 +1,1 @@
-
-![Uploading airbnb-use-cases.png.drawio.png…]()
+![Uploading airbnb-use-cases.png.jpg…]()
